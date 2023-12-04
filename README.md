@@ -35,3 +35,8 @@
 - [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 - [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
+
+<img src="/Docs/Imgs/001.png" width="200"/>
+<img src="/Docs/Imgs/002.png" width="200"/>
+<img src="/Docs/Imgs/003.png" width="200"/>
+<img src="/Docs/Imgs/004.png" width="200"/>
