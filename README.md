@@ -40,5 +40,5 @@
 <img src="/Docs/Imgs/001.png" width="100%"/>
 <img src="/Docs/Imgs/002.png" width="100%"/>
 <img src="/Docs/Imgs/003.png" width="100%"/>
-<img src="/Docs/Imgs/004.png" width="640"/>
+<img src="/Docs/Imgs/004.png" width="100%"/>
 </center>
