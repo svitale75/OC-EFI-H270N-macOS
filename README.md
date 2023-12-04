@@ -8,7 +8,7 @@
 **User's to do:**
 1. Download this project's latest **release** and unzip the archive
 2. Download **config.plsit** from above
-3. Download **OpenCore Configurator** and open config.plist or use **OpenCore configurator online** to edit config.plist
+3. Download **OpenCore Configurator** and open config.plist or use **OpenCore Configurator On Line** to edit config.plist
 4. Under the **NVAM** section, expand 7C436110-AB2A-4BBB-A880-FE41995C9F82 and add the following to boot-args "-v keepsyms=1 debug=0x100 alcid=21"
 5. Under **PlattformInfo**, select the DataHub - Generic - PLattformNVRAM. Select **iMAC18,1**
 6. File > Save
@@ -16,4 +16,4 @@
 
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-- [OpenCore configurator online](https://galada.gitee.io/opencoreconfiguratoronline/)
+- [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
