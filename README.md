@@ -1,4 +1,4 @@
-# An OpenCore (0.6.9) EFI that enables a Gigabyte H270N-WIFI based PC to run macOC Ventura 13.6.2
+# An OpenCore (0.6.9) EFI that enables a Gigabyte H270N-WIFI based PC to run macOC Ventura 13.6.1
 
 **Machine's specs:**
 - Motherboard details: GIGABYTE GA-H270N-WIFI LGA1151 Intel H270 Mini ITX DDR4
@@ -18,7 +18,7 @@
   
 - If macOS Ventura 13.6.2 is NOT already installed then:
 1. Download **OpneCore Legacy Patcher**
-2. Create mac OS istaller for macOS **Ventura 13.6.2** to a drive
+2. Create mac OS istaller for macOS **Ventura 13.6.1** to a drive
 3. Build and Instal OpenCore to the same drive
 4. Mount the drives **EFI** partition of your instal drive and delete all of its content
 5. Download this project's latest **release** and unzip the archive, this will give you a single folder named **EFI**
