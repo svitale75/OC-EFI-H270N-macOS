@@ -6,7 +6,7 @@
 - GPU details: Intel HD Graphics 630
 
 **User's to do:**
-- If macOS Ventura 13.6.2 is already installed then:
+- If macOS Ventura 13.6.1 is already installed then:
 1. Download this project's latest **release** and unzip the archive, this will give you a single folder named **EFI**
 2. Copy the  **EFI** folder into the root of your drive **EFI partition**
 3. Download **config.plsit** from the above repository
@@ -16,7 +16,7 @@
 7. Save **config.plist**
 8. Move the saved **config.plist** into your **EFI/OC** folder of your **EFI** partition
   
-- If macOS Ventura 13.6.2 is NOT already installed then:
+- If macOS Ventura 13.6.1 is NOT already installed then:
 1. Download **OpneCore Legacy Patcher**
 2. Create mac OS istaller for macOS **Ventura 13.6.1** to a drive
 3. Build and Instal OpenCore to the same drive
