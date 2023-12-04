@@ -16,5 +16,5 @@
 
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
--[Acidanthera](https://github.com/acidanthera)
+- [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
