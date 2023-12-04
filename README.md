@@ -1,4 +1,4 @@
-# An EFI that enables a Gigabyte H270N-WIFI based PC to run macOC Ventura 13.6.2 via OpenCore 0.6.9
+# An OpenCore (0.6.9) EFI that enables a Gigabyte H270N-WIFI based PC to run macOC Ventura 13.6.2
 
 Machine's specs:
 CPU details: Intel Core i3-7100; Kaby Lake
