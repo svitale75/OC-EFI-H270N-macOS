@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>#079</key>
-	<string>This is just a sample. Do NOT try loading it.</string>
+	<string>This is OC-EFI-H270N-Ventura</string>
 	<key>#WARNING - 2</key>
-	<string>Ensure you understand EVERY field before booting.</string>
+	<string>Follow the instructions</string>
 	<key>#WARNING - 3</key>
-	<string>In most cases recommended to use Sample.plist</string>
+	<string>It is tested and it works</string>
 	<key>#WARNING - 4</key>
-	<string>Use SampleCustom.plist only for special cases.</string>
+	<string>Make sure your specs match the project's</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
