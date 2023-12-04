@@ -11,8 +11,8 @@
 3. Download **OpenCore Configurator** or use **OpenCore Configurator On Line** to edit **config.plist**
 4. Under the **NVAM** section, expand 7C436110-AB2A-4BBB-A880-FE41995C9F82 and add the following to boot-args "-v keepsyms=1 debug=0x100 alcid=21"
 5. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **iMAC18,1**
-6. File > Save
-7. Move the saved **config.plist** in your **EFI/OC** folder
+6. Save **config.plist**
+7. Move the saved **config.plist** into your **EFI/OC** folder
 
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
