@@ -36,7 +36,7 @@
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 - [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
 
-**GeekBench Results**
+**Geekbench Results**
 
 <img src="/Docs/Imgs/001.png" width="100%"/>
 <img src="/Docs/Imgs/002.png" width="100%"/>
