@@ -6,6 +6,7 @@
 - GPU details: Intel HD Graphics 630
 
 **User's to do:**
+- If MacOS Ventura is already installed then:
 1. Download this project's latest **release** and unzip the archive
 2. Download **config.plsit** from the above repository
 3. Download **OpenCore Configurator** or use **OpenCore Configurator On Line** to edit **config.plist**
