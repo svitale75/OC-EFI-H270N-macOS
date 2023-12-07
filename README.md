@@ -7,9 +7,8 @@
 
 **Works with:**
 - Ventura 13.16.1
-- Big Sur
-- Sonoma
-- Sierra
+- Monteray 12.7.1
+- Big Sur 11.7.10
 
 **User's to do:**
 1. Download the latest release by macOS version
