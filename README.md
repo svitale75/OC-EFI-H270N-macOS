@@ -6,7 +6,7 @@
 - GPU details: Intel HD Graphics 630
 
 **Works with:**
-- Ventura
+- Ventura 13.16.1
 - Big Sur
 - Sonoma
 - Sierra
