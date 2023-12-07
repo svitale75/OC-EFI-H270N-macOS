@@ -1,1 +1,1 @@
-**Must download the file from the correspondent folder by macOS version**
+**Please download the "config.plist" file from the correspondent folder to the selected macOS version**
