@@ -5,6 +5,12 @@
 - CPU details: Intel Core i3-7100 7th Gen Core Desktop Processor 3M Cache,3.90 GHz (Kaby Lake)
 - GPU details: Intel HD Graphics 630
 
+**Works with:**
+- Ventura
+- Big Sur
+- Sonoma
+- Sierra
+
 **User's to do:**
 1. Download the latest release by macOS version
 2. Download the config.plist by macOS version
