@@ -40,6 +40,7 @@
 - [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
 
 **System Info**
+
 <img src="/Docs/Imgs/sonoma/info.png"/>
 
 **Geekbench Results**
