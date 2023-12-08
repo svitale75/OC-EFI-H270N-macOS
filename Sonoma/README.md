@@ -20,7 +20,7 @@
   
 - If macOS Sonoma 14.1.1 is NOT already installed then:
 1. Download **OpenCore Legacy Patcher**
-2. Create mac OS istaller for macOS ** Sonoma** to a drive
+2. Create mac OS istaller for macOS **Sonoma** to a drive
 3. Build and Instal OpenCore to the same drive
 4. Mount the drives **EFI** partition of your instal drive and delete all of its content
 5. Download this project's latest **release** and unzip the archive, this will give you a single folder named **EFI**
