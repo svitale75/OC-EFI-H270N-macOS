@@ -40,3 +40,8 @@
 - [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
 
 **Geekbench Results**
+
+<img src="/Docs/Imgs/1.png" width="100%"/>
+<img src="/Docs/Imgs/2.png" width="100%"/>
+<img src="/Docs/Imgs/3.png" width="100%"/>
+<img src="/Docs/Imgs/4.png" width="100%"/>
