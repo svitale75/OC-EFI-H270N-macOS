@@ -41,7 +41,7 @@
 
 **Geekbench Results**
 
-<img src="/Docs/Imgs/1.png" width="100%"/>
-<img src="/Docs/Imgs/2.png" width="100%"/>
-<img src="/Docs/Imgs/3.png" width="100%"/>
-<img src="/Docs/Imgs/4.png" width="100%"/>
+<img src="/Docs/Imgs/sonoma/1.png" width="100%"/>
+<img src="/Docs/Imgs/sonoma/2.png" width="100%"/>
+<img src="/Docs/Imgs/sonoma/3.png" width="100%"/>
+<img src="/Docs/Imgs/sonoma/4.png" width="100%"/>
