@@ -13,7 +13,7 @@
 3. Download **config.plsit** from the above repository
 4. Download **OpenCore Configurator** or use **OpenCore Configurator On Line** to edit **config.plist**
 5. Under the **NVAM** section, expand 7C436110-AB2A-4BBB-A880-FE41995C9F82 and add the following to boot-args "-v keepsyms=1 debug=0x100 alcid=21"
-6. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **iMAC18,1**
+6. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **iMac20,1**
 7. Save **config.plist**
 8. Move the saved **config.plist** into your **EFI/OC** folder of your **EFI** partition
   
