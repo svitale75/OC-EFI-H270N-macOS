@@ -39,6 +39,9 @@
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 - [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
 
+**System Info**
+<img src="/Docs/Imgs/sonoma/info.png"/>
+
 **Geekbench Results**
 
 <img src="/Docs/Imgs/sonoma/1.png" width="100%"/>
