@@ -16,6 +16,7 @@
 6. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **iMac20,1**
 7. Save **config.plist**
 8. Move the saved **config.plist** into your **EFI/OC** folder of your **EFI** partition
+9. After the first boot you can edit config.plist to remove any arguments "-v keepsyms=1 debug=0x100 alcid=21" as they are no longer needed and your boot time will improve.
   
 - If macOS Sonoma 14.1.2 is NOT already installed then:
 1. Download **OpneCore Legacy Patcher**
@@ -30,7 +31,7 @@
 10. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **iMAC18,1**
 11. Save **config.plist**
 12. Move the saved **config.plist** into the **EFI/OC** folder of your **EFI** partition (of your instal drive)
-13. After the installation you can copy the content of your install drive EFI to your main dirve EFI and edit config.plist to remove any arguments "-v keepsyms=1 debug=0x100 alcid=21" as they are no longer needed and your boot time wil improve.
+13. After the installation you can copy the content of your install drive EFI to your main dirve EFI and edit config.plist to remove any arguments "-v keepsyms=1 debug=0x100 alcid=21" as they are no longer needed and your boot time will improve.
     
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
