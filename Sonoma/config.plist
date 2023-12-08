@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>#079</key>
-	<string>This is just a sample. Do NOT try loading it.</string>
+	<string>This is OC-EFI-H270N-macOS.</string>
 	<key>#WARNING - 2</key>
-	<string>Ensure you understand EVERY field before booting.</string>
+	<string>Make sure the hardware configruations matches the description.</string>
 	<key>#WARNING - 3</key>
-	<string>In most cases recommended to use Sample.plist</string>
+	<string>Downnload the latest revision.</string>
 	<key>#WARNING - 4</key>
-	<string>Use SampleCustom.plist only for special cases.</string>
+	<string>Follow the instructions at https://github.com/svitale75/OC-EFI-H270N-macOS/</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
