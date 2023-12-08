@@ -6,7 +6,7 @@
 - GPU details: Intel HD Graphics 630
 
 **Works with:**
-- Sonoma 14.1.2
+- Sonoma 14.1.1
 - Ventura 13.16.1
 - Monteray 12.7.1
 - Big Sur 11.7.10
