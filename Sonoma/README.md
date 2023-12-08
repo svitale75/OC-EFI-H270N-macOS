@@ -19,7 +19,7 @@
 9. After the first boot you can edit config.plist to remove any arguments "-v keepsyms=1 debug=0x100 alcid=21" as they are no longer needed and your boot time will improve.
   
 - If macOS Sonoma 14.1.2 is NOT already installed then:
-1. Download **OpneCore Legacy Patcher**
+1. Download **OpenCore Legacy Patcher**
 2. Create mac OS istaller for macOS ** Sonoma** to a drive
 3. Build and Instal OpenCore to the same drive
 4. Mount the drives **EFI** partition of your instal drive and delete all of its content
