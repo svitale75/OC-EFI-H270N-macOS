@@ -4,6 +4,7 @@
 - Motherboard details: GIGABYTE GA-H270N-WIFI LGA1151 Intel H270 Mini ITX DDR4
 - CPU details: Intel Core i3-7100 7th Gen Core Desktop Processor 3M Cache,3.90 GHz (Kaby Lake)
 - GPU details: Intel HD Graphics 630
+- WiFi and Bluetooth: BCM94360CS2
 
 **Works with:**
 - Sonoma 14.1.1
